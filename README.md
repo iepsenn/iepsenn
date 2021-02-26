@@ -7,6 +7,9 @@
 - 💬 Ask me about anything, at least I will try to help
 - 📫 How to reach me: try LinkedIn or send me a email
 
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iepsenn&show_icons=true&locale=en" alt="iepsenn" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,12 +34,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iepsenn&show_icons=true&locale=en&layout=compact" alt="iepsenn" />
-</p>
-
-<p><b><b><b></p>
-
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -92,5 +89,5 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iepsenn&show_icons=true&locale=en" alt="iepsenn" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iepsenn&show_icons=true&locale=en&layout=compact" alt="iepsenn" />
 </p>
