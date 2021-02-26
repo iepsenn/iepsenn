@@ -92,6 +92,11 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iepsenn" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/iepsenn" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iepsenn" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iepsenn" height="30" width="40"/>
     </a>
+</p>
+<br>
+
+<p>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=iepsenn.iepsenn" alt="visitors">
 </p>
