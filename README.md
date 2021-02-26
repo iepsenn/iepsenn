@@ -7,20 +7,6 @@
 - 💬 Ask me about anything, at least I will try to help
 - 📫 How to reach me: try LinkedIn or send me a email
 
-<h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=iepsenn&label=Profile%20views&color=0e75b6&style=flat" alt="iepsenn" />
-</p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iepsenn" alt="iepsenn" /></a>
-</p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -103,10 +89,8 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iepsenn&show_icons=true&locale=en&layout=compact" alt="iepsenn" />
 </p>
 
+
+
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=iepsenn&show_icons=true&locale=en" alt="iepsenn" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iepsenn&" alt="iepsenn" />
 </p>
