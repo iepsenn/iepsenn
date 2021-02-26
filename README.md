@@ -7,33 +7,18 @@
 - 💬 Ask me about anything, at least I will try to help
 - 📫 How to reach me: try LinkedIn or send me a email
 
+<br/>
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=iepsenn&show_icons=true&locale=en" alt="iepsenn" />
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://dev.to/iepsenn" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iepsenn" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/lukas-iepsen" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lukas-iepsen" height="30" width="40" />
-    </a>
-    <a href="https://kaggle.com/iepsenn" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="iepsenn" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@lukasiepsen" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lukasiepsen" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/iepsenn" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iepsenn" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/iepsenn" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iepsenn" height="30" width="40" />
-    </a>
-</p>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iepsenn&show_icons=true&locale=en&layout=compact" alt="iepsenn" />
+</p><br/>
+
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -87,7 +72,26 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     </a>
 </p>
+<br/>
 
-<p>&nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iepsenn&show_icons=true&locale=en&layout=compact" alt="iepsenn" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://dev.to/iepsenn" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iepsenn" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/lukas-iepsen" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lukas-iepsen" height="30" width="40" />
+    </a>
+    <a href="https://kaggle.com/iepsenn" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="iepsenn" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@lukasiepsen" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lukasiepsen" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/iepsenn" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iepsenn" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/iepsenn" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iepsenn" height="30" width="40" />
+    </a>
 </p>
